@@ -10,6 +10,7 @@ yüklediğim dosyaların açıklamaları:
 (final dosyasında kullanılan veri : diabetes2)
 * anova modelleri --> tek yönlü ve iki yönlü anova modellerinin SPSS ve Excel üzerinde uygulaması
 * deneysunum --> latin kare, nested vs. modellerinden SPSS ile uygulanması
+* kayıp veri analizi --> SPSS ile kayıp veri analizi, kullanılan veri supermodel1.sav
 
 
 
