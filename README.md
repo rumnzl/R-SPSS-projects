@@ -3,5 +3,7 @@ Analyzes I made in r studio
 
 yüklediğim dosyaların açıklamaları:
 
-1. Temel istatistiksel analizler ve grafik çizimleri
-2. 
+odev1 --> Temel istatistiksel analizler ve grafik çizimleri...
+vize --> Veri üzerinden detaylı analiz, regresyon modeli kurulması ve yorumlanması, değişik grafiklendirmeler...
+odev4 --> cross validation denemeleri...
+
