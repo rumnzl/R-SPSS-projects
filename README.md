@@ -11,7 +11,7 @@ yüklediğim dosyaların açıklamaları:
 * anova modelleri --> tek yönlü ve iki yönlü anova modellerinin SPSS ve Excel üzerinde uygulaması
 * deneysunum --> latin kare, nested vs. modellerinden SPSS ile uygulanması
 * kayıp veri analizi --> SPSS ile kayıp veri analizi, kullanılan veri supermodel1.sav
-
+* ileriregresyonyöntemleri --> R studio'da ridge,lasso,elasticnet ve PCA analizi uygulamaları
 
 
 
