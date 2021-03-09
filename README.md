@@ -8,6 +8,10 @@ vize --> Veri üzerinden detaylı analiz, regresyon modeli kurulması ve yorumla
 odev4 --> cross validation denemeleri...
 final --> lojistik regresyon modeli kurulması ve yorumlanması, ROC eğrisi, crıss validation, karar ağacı kurulması...
 
+final dosyasında kullanılan veri : diabetes2
+
+(not: diğer veriler dosyaların içerisinde bulunmaktadır.)
+
 
 
 
