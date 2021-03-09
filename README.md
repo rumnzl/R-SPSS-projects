@@ -12,7 +12,7 @@ yüklediğim dosyaların açıklamaları:
 * deneysunum --> latin kare, nested vs. modellerinden SPSS ile uygulanması
 * kayıp veri analizi --> SPSS ile kayıp veri analizi, kullanılan veri supermodel1.sav
 * ileriregresyonyöntemleri --> R studio'da ridge,lasso,elasticnet ve PCA analizi uygulamaları
-
+* kararağaçları --> R studiio ile karar ağaçları, bagging, boosting vs.....
 
 
 (not: diğer veriler dosyaların içerisinde bulunmaktadır.)
